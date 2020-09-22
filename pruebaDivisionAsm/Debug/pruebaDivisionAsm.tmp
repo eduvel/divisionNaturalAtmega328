@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:/Programas\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>D:\Programas\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:/Programas\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\division.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\Debug\pruebaDivisionAsm.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>pruebaDivisionAsm.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>pruebaDivisionAsm.map</FILE>
+  <FILE>pruebaDivisionAsm.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INICIO><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\main.asm</FILE><LINE>5</LINE></INICIO>
+  <DIVISION16><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\division.inc</FILE><LINE>13</LINE></DIVISION16>
+  <SEGUIR16><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\division.inc</FILE><LINE>26</LINE></SEGUIR16>
+  <VOLVER16><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\division.inc</FILE><LINE>18</LINE></VOLVER16>
+  <DIVISION8><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\division.inc</FILE><LINE>41</LINE></DIVISION8>
+  <SEGUIR8><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\division.inc</FILE><LINE>49</LINE></SEGUIR8>
+  <VOLVER8><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\division.inc</FILE><LINE>45</LINE></VOLVER8>
+  <ENVIO_UART><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\main.asm</FILE><LINE>68</LINE></ENVIO_UART>
+  <VOLVER><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\main.asm</FILE><LINE>64</LINE></VOLVER>
+  <ESPERAR_TX><FILE>D:\ProgramasAVR\pruebaDivisionAsm\pruebaDivisionAsm\main.asm</FILE><LINE>71</LINE></ESPERAR_TX>
+ </LABELS>
+</ASSEMBLER_INFO>
